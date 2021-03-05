@@ -30,14 +30,25 @@ __What is expected in the presentation?__
 
 _You'll become our Lead UX designer and we're by no means as seasoned in UX as you are. Therefore we look forward to you to walking us through your results, explain your thought process and ultimately show off your skills._
 
-# Challenge
+# :trophy: Challenge
 
 The challenge consists of two sections: _Design_ and _Methods_ which both have to be worked on. You are given options in each section so pick the one that suits you best :wink:. Please start by reading the story
 
-# Story
+## :blue_book: Story
 
+Our customer is using an inhouse developed software tool for managing and controlling their manufacturing. No one ever thought about user experience and this is reflected in the current UI. Users are unengaged and frustrated by it. azeti is tasked to develop a brand new version of it that avoids all the issues of the previous tool. We're going to develop is as our new product and shift away from an inhouse-tool that doesn't follow good standards and qualities a product would.
+You'll be given a screencast that was recorded during a meeting where one of the main developers is walking us through a portion of the tool how it's used. The screencast is the base for the challenge and all tasks will relate to it. 
+We'll provide a lsit of time codes so you know where in the video the interesting sections are, i.e. demo of how they report data or how users can create new views. 
 
+_Please watch the video sections: <TODO>_ for a base understanding of it.
 
-### Hands-on _Design_
+### :wrench: Hands-on _Design_
 
-### _Methods_ & Structure
+a) Wireframe new interface of Analytics Service
+
+b) Wireframe new interface of basic forms
+
+c) Wireframe new interface for Analytics Report Request form
+
+### :mortar_board: _Methods_ & Structure
+
