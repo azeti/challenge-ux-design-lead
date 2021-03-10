@@ -32,8 +32,8 @@ _You'll become our Lead UX designer and we're by no means as seasoned in UX as y
 
 # :blue_book: Story
 
-Our customer is using an inhouse developed software tool for managing and controlling their manufacturing. User experience is very bad and this is reflected in the current UI. Users are unengaged and frustrated by it. azeti is tasked to develop a new version from scratch that comes with great user experience from day one. We're going to develop this as a new product and shift away from an inhouse-tool that doesn't follow good standards and qualities a product would.
-You'll be given a screencast that was recorded during a meeting where one of the main developers is walking us through a portion of the tool and its usage. __The screencast is the base for the challenge and all tasks will relate to it.__
+Our customer is using an inhouse developed software tool for managing and controlling their manufacturing. User experience is very bad and this is reflected in the current UI. Users are unengaged and frustrated by it. azeti is tasked to develop a new version from scratch that comes with great user experience from day one. We're going to develop this as a new product and shift away from an inhouse-tool that doesn't follow good standards and qualities a product would.  
+You'll be given a screencast that was recorded during a meeting where one of the main developers is walking us through a portion of the tool and its usage. __The screencast is the base for the challenge and all tasks will relate to it.__  
 We'll provide a lsit of time codes of the video so you're able to identify the interesting sections, i.e. demo of how they report data or how users can create new views. 
 
 ## Screencast - Timeline
@@ -96,11 +96,11 @@ Developing a new version of shown Manufacturing Software is a big challenge. Ple
 Please present to us how you would tackle such a big challenge. Your presentation could be of any form (Word, Miro, Markup Document, Powerpoint, Mural Board, Live Pen & Paper with Post-Its, Trello, textfile, ...) you like and that suits your known workflow.
 
 __Some key questions to consider:__
-How would you tackle such a challenge, organise your team and work, collaborate with developers and users?
-What are key tasks and milestones for such a big project from UX perspective (assume the PO helps you understand requirements and refines the backlog)?
-How would you structure the work of the UX team (Caroline, Junior UX Designer and yourself)?
+How would you tackle such a challenge, organise your team and work, collaborate with developers and users?  
+What are key tasks and milestones for such a big project from UX perspective (assume the PO helps you understand requirements and refines the backlog)?  
+How would you structure the work of the UX team (Caroline, Junior UX Designer and yourself)?  
 What methods would you embrace for such an agile project?
-How do you ensure an agile workflow with frequent (daily/weekly) tests and short feedback loops?
+How do you ensure an agile workflow with frequent (daily/weekly) tests and short feedback loops?  
 How do you measure your UX teams success in the project?
 
 __What's given:__
